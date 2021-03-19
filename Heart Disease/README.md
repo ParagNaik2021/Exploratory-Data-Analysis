@@ -24,6 +24,6 @@ This database contains 76 attributes, but all published experiments refer to usi
 
 
 # Libraries-
-1.Pandas
-2.Matplotlib
-2.Seaborn
+1. Pandas
+2. Matplotlib
+3. Seaborn
